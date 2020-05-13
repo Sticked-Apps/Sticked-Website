@@ -1,14 +1,9 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "ru.justd.sticked",
-      "sha256_cert_fingerprints": [
-        "7C:1A:21:15:FE:67:C5:05:51:0C:E7:35:AD:62:2C:46:47:DC:03:02:22:F8:F4:08:DE:B5:03:75:12:AC:63:6A"
-      ]
-    }
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "app.sticked",
+    "sha256_cert_fingerprints":
+    ["7E:10:71:6C:68:30:CC:D3:29:25:14:AD:D8:FE:52:84:D8:29:FE:66:F4:DB:7E:D8:7C:E7:18:11:D3:A9:C1:EB"]
   }
-]
+}]
